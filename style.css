@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h1, h3{
+    /* text-align: center; */
+    margin-bottom: 10px;
+    
+}
+
+.hdng{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.red{
+    background-color: rgb(220 60 130);
+}
+.yellow{
+    background-color: rgb(237 177 17);
+}
+.green{
+    background-color: #2893bc;
+}
+.purple{
+    background-color: #666dde;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
