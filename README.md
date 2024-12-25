@@ -2,7 +2,7 @@
 
 
 A fun and interactive memory game where players must repeat a sequence of colors in the correct order. Built using **HTML**, **CSS**, and **JavaScript**.
-Here You Can Access This Game - https://thunderous-melomakarona-10db3d.netlify.app/
+Here You Can Access This Game - https://simonsays-game07.netlify.app/
 
 ## Features
 - Random sequence generation for each round.
