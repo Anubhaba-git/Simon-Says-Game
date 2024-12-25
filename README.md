@@ -2,7 +2,7 @@
 
 
 A fun and interactive memory game where players must repeat a sequence of colors in the correct order. Built using **HTML**, **CSS**, and **JavaScript**.
-Here You Can Access This Game - https://simonsays-game07.netlify.app/
+Here You Can Access This Game - https://simonsays-game07-by-anubhaba.netlify.app/
 
 ## Features
 - Random sequence generation for each round.
